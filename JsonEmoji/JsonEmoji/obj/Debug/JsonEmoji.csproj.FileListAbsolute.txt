@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Projeler\JsonEmoji\JsonEmoji\bin\Debug\JsonEmoji.exe.config
+C:\Users\Asus\Desktop\Projeler\JsonEmoji\JsonEmoji\bin\Debug\JsonEmoji.exe
+C:\Users\Asus\Desktop\Projeler\JsonEmoji\JsonEmoji\bin\Debug\JsonEmoji.pdb
+C:\Users\Asus\Desktop\Projeler\JsonEmoji\JsonEmoji\obj\Debug\JsonEmoji.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Projeler\JsonEmoji\JsonEmoji\obj\Debug\JsonEmoji.Form1.resources
+C:\Users\Asus\Desktop\Projeler\JsonEmoji\JsonEmoji\obj\Debug\JsonEmoji.Properties.Resources.resources
+C:\Users\Asus\Desktop\Projeler\JsonEmoji\JsonEmoji\obj\Debug\JsonEmoji.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Projeler\JsonEmoji\JsonEmoji\obj\Debug\JsonEmoji.exe
+C:\Users\Asus\Desktop\Projeler\JsonEmoji\JsonEmoji\obj\Debug\JsonEmoji.pdb

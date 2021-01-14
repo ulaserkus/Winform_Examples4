@@ -1,0 +1,9 @@
+C:\Users\Asus\Desktop\Projeler\Json\Json\bin\Debug\Json.exe.config
+C:\Users\Asus\Desktop\Projeler\Json\Json\bin\Debug\Json.exe
+C:\Users\Asus\Desktop\Projeler\Json\Json\bin\Debug\Json.pdb
+C:\Users\Asus\Desktop\Projeler\Json\Json\obj\Debug\Json.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Projeler\Json\Json\obj\Debug\Json.Form1.resources
+C:\Users\Asus\Desktop\Projeler\Json\Json\obj\Debug\Json.Properties.Resources.resources
+C:\Users\Asus\Desktop\Projeler\Json\Json\obj\Debug\Json.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Projeler\Json\Json\obj\Debug\Json.exe
+C:\Users\Asus\Desktop\Projeler\Json\Json\obj\Debug\Json.pdb
