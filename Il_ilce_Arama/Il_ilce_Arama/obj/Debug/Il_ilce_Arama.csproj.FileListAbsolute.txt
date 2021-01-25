@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Projeler\Il_ilce_Arama\Il_ilce_Arama\bin\Debug\Il_ilce_Arama.exe.config
+C:\Users\Asus\Desktop\Projeler\Il_ilce_Arama\Il_ilce_Arama\bin\Debug\Il_ilce_Arama.exe
+C:\Users\Asus\Desktop\Projeler\Il_ilce_Arama\Il_ilce_Arama\bin\Debug\Il_ilce_Arama.pdb
+C:\Users\Asus\Desktop\Projeler\Il_ilce_Arama\Il_ilce_Arama\obj\Debug\Il_ilce_Arama.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Projeler\Il_ilce_Arama\Il_ilce_Arama\obj\Debug\Il_ilce_Arama.Form1.resources
+C:\Users\Asus\Desktop\Projeler\Il_ilce_Arama\Il_ilce_Arama\obj\Debug\Il_ilce_Arama.Properties.Resources.resources
+C:\Users\Asus\Desktop\Projeler\Il_ilce_Arama\Il_ilce_Arama\obj\Debug\Il_ilce_Arama.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Projeler\Il_ilce_Arama\Il_ilce_Arama\obj\Debug\Il_ilce_Arama.exe
+C:\Users\Asus\Desktop\Projeler\Il_ilce_Arama\Il_ilce_Arama\obj\Debug\Il_ilce_Arama.pdb
+C:\Users\Asus\Desktop\Projeler\Il_ilce_Arama\Il_ilce_Arama\obj\Debug\Il_ilce_Arama.Search.resources
